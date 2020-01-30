@@ -12,9 +12,9 @@ This repository is for Developing Web Application 44-563-03. This will be used f
 
 * A location to store your code in the cloud [Github](https://github.com/)
 * IDE to code [Visual Studio Code](https://code.visualstudio.com/)
-* A good reference of the basics like [W3School](https://www.w3schools.com/)
+* Knowledge of [Markdown](https://www.markdownguide.org/) and [HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5).
 
-## Recommended Resources: Link to at least three resources you use for web development
+## Recommended Resources:
 
 * For basic web development I like to reference [W3School](www.w3schools.com/). It is very good at laying out the basics of HTML, CSS, JQuery, and JavaScript.
 * A resource I use of more complex css styling I like to reference [CSS-Tricks](https://css-tricks.com/).
@@ -23,3 +23,5 @@ This repository is for Developing Web Application 44-563-03. This will be used f
 ## Contributors: 
 Adalida Lewis: Digital Media: Computer Science
 
+![PandaTuxedocat](PandaChristmas.png)
+Photo taken by me, My cat Panda
